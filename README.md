@@ -15,12 +15,11 @@ The code finds and calculates the distance between 2 points based on the user's 
 4. Value of how far the 2nd point is in the y axis
 
 ## Sample Output
-PS D:\8-Acacia\Balaho> & "C:\Users\PC 05\AppData\Local\Programs\Python\Python312\python.exe" "d:/8-Acacia/Balaho/Improved Distance Calculator Code by Balaho.py"
-Enter the x-coordinate of the first point: 2
-Enter the y-coordinate of the first point: 3
-Enter the x-coordinate of the second point: 4
-Enter the y-coordinate of the second point: 3
-The distance between the 2 points is 2.0
+- Enter the x-coordinate of the first point: 2
+- Enter the y-coordinate of the first point: 3
+- Enter the x-coordinate of the second point: 4
+- Enter the y-coordinate of the second point: 3
+- The distance between the 2 points is 2.0
 
 ## Author
 - Name: JhoneHope C. Balaho
