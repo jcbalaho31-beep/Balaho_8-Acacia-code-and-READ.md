@@ -23,5 +23,5 @@ Enter the y-coordinate of the second point: 3
 The distance between the 2 points is 2.0
 
 ## Author
--Name: JhoneHope C. Balaho
--Section: Acacia
+- Name: JhoneHope C. Balaho
+- Section: Acacia
