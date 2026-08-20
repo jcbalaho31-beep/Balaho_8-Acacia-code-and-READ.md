@@ -1,7 +1,7 @@
-# Balaho_8-Acacia-code-and-READ.md
+# Balaho_8_Acacia_Distance_Calculator_and_READ.md
 
 ## Description
-The program finds and calculates the distance between 2 points based on the user's inputs about the 2 points.
+This program finds and calculates the distance between 2 points based on the user's inputs about the 2 points.
 
 ## How to Run
 1. Open the program
