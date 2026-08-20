@@ -17,9 +17,9 @@ The program finds and calculates the distance between 2 points based on the user
 ## Sample Output
 - Enter the x-coordinate of the first point: 2
 - Enter the y-coordinate of the first point: 3
-- Enter the x-coordinate of the second point: 4
-- Enter the y-coordinate of the second point: 3
-- The distance between the 2 points is 2.0
+- Enter the x-coordinate of the second point: 7
+- Enter the y-coordinate of the second point: 8
+- The distance between the 2 points is 7.0710678118654755
 
 ## Author
 - Name: JhoneHope C. Balaho
